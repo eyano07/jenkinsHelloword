@@ -1,2 +1,0 @@
-# jenkinsHelloword
-# jenkinsHelloword
